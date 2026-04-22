@@ -16,7 +16,7 @@ We are starting with Linux ubuntu as our further OS. Somethings I came across :
 - pwd	        Show current directory path
 - cd	        Change directory
 - locate	    Search files by name
-find	Search files and directories
+- find	        Search files and directories
 mkdir	Create a directory
 rmdir	Remove an empty directory
 rm	Delete files or directories
