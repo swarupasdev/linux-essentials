@@ -17,24 +17,24 @@ We are starting with Linux ubuntu as our further OS. Somethings I came across :
 - cd	        Change directory
 - locate	    Search files by name
 - find	        Search files and directories
-mkdir	Create a directory
-rmdir	Remove an empty directory
-rm	Delete files or directories
-cp	Copy files or directories
-mv	Move or rename files
-touch	Create an empty file
-file	Show file type
-zip	Compress files into ZIP archive
-unzip	Extract ZIP archive
-tar	Archive files and directories
-nano	Edit files with Nano
-vi	Edit files with Vi
-jed	Edit files with Jed
-cat	Display file content
-grep	Search text patterns in files
-sed	Replace or modify text patterns
-head	Show first lines of a file
-tail	Show last lines of a file
+- mkdir	Create a directory
+- rmdir	Remove an empty directory
+- rm	Delete files or directories
+- cp	Copy files or directories
+- mv	Move or rename files
+- touch	Create an empty file
+- file	Show file type
+- zip	Compress files into ZIP archive
+- unzip	Extract ZIP archive
+- tar	Archive files and directories
+- nano	Edit files with Nano
+- vi	Edit files with Vi
+- jed	Edit files with Jed
+- cat	Display file content
+- grep	Search text patterns in files
+- sed	Replace or modify text patterns
+- head	Show first lines of a file
+- tail	Show last lines of a file
 awk	Process and analyze text
 sort	Sort file content
 cut	Extract sections of text
@@ -141,3 +141,8 @@ unalias	Remove command shortcut
 cal	Display calendar
 apt	Manage packages (Debian-based)
 dnf	Manage packages (RHEL-based)
+
+#### What is linux ?
+##### unix history
+
+
